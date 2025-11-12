@@ -51,9 +51,9 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           # Nome do arquivo que será anexado à release
-          files: UFSKernel-Docs.pdf
+          files: Documentacao_UFSKernel.pdf
           # Nome da tag e da release
-          tag_name: Latest-Documentation
+          tag_name: Documentação-Atualizada
           # Deleta a release anterior com esta tag, se existir
           prerelease: false
           # Marca a release como a mais recente

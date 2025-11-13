@@ -63,4 +63,4 @@ Este repositório utiliza **GitHub Actions** para compilar o documento LaTeX aut
 
 ## Licença
 
-A documentação deste projeto é licenciada sob a **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Veja o arquivo `LICENSE` para mais detalhes.
+A documentação deste projeto é licenciada sob a **Creative Commons Legal Code (CC0 1.0 Universal)**. Veja o arquivo `LICENSE` para mais detalhes.
